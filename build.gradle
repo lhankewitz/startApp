@@ -1,4 +1,4 @@
-group 'com.sepoe.spring.rest'
+group 'com.sepoe.startapp'
 version '1.0-SNAPSHOT'
 
 apply plugin: 'java'
